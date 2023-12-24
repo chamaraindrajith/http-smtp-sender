@@ -1,0 +1,5 @@
+[23-Dec-2023 11:23:34 UTC] PHP Fatal error:  Cannot use CodeIgniter\Controller as Controller because the name is already in use in /home/e7cvqd4hff69/public_html/http-smtp-sender.codeintouch.com/app/Controllers/MailController.php on line 8
+[23-Dec-2023 11:23:35 UTC] PHP Fatal error:  Cannot use CodeIgniter\Controller as Controller because the name is already in use in /home/e7cvqd4hff69/public_html/http-smtp-sender.codeintouch.com/app/Controllers/MailController.php on line 8
+[23-Dec-2023 11:24:46 UTC] PHP Fatal error:  Cannot use CodeIgniter\Controller as Controller because the name is already in use in /home/e7cvqd4hff69/public_html/http-smtp-sender.codeintouch.com/app/Controllers/MailController.php on line 8
+[23-Dec-2023 11:25:35 UTC] PHP Fatal error:  Cannot use CodeIgniter\Controller as Controller because the name is already in use in /home/e7cvqd4hff69/public_html/http-smtp-sender.codeintouch.com/app/Controllers/MailController.php on line 8
+[24-Dec-2023 08:40:56 UTC] PHP Fatal error:  Cannot use try without catch or finally in /home/e7cvqd4hff69/public_html/http-smtp-sender.codeintouch.com/app/Controllers/MailController.php on line 131
